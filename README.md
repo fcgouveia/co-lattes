@@ -128,3 +128,7 @@ Este projeto é disponibilizado publicamente sob uma licença de uso não comerc
 O uso comercial, incluindo a comercialização, incorporação em produtos ou serviços comerciais e exploração econômica da aplicação, depende de autorização prévia e expressa do titular dos direitos autorais.
 
 Para solicitar autorização de uso comercial ou obter uma licença comercial, entre em contato com o titular do projeto.
+
+O software é fornecido "no estado em que se encontra" ("as is"), sem garantias de qualquer natureza, expressas ou implícitas, incluindo, mas não se limitando a, garantias de comercialização, adequação a uma finalidade específica e não violação de direitos de terceiros.
+
+Em nenhuma circunstância os autores ou titulares dos direitos autorais serão responsáveis por quaisquer reclamações, danos ou outras responsabilidades, sejam elas decorrentes de contrato, ato ilícito ou qualquer outra forma, relacionadas ao software, ao seu uso ou a outras operações realizadas com o software.
