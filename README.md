@@ -30,6 +30,8 @@ Selecione a quantidade de conjuntos que deseja comparar: 2, 3, 4 ou 5.
 
 ### 3. Identificar os conjuntos
 
+Escolha se serão apenas os doutores ou todos os CVs encontrados
+
 Para cada conjunto:
 
 1. Informe um nome de identificação.
